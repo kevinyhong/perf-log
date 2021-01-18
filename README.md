@@ -1,0 +1,1 @@
+Express.js middleware to initiate request performance logging using the perf_hooks module.
