@@ -1,5 +1,5 @@
 {
-  "name": "perf-log",
+  "name": "req-perf-log",
   "version": "1.0.0",
   "description": "Express.js middleware to track the time taken to process a given request.",
   "homepage": "https://github.com/kevinyhong/perf-log",
@@ -7,7 +7,8 @@
     "type": "git",
     "url": "https://github.com/kevinyhong/perf-log.git"
   },
-  "main": "perf-log.js",
+  "exports": "./perf-log.js",
+  "main": "./perf-log.js",
   "keywords": [
     "express.js",
     "middleware",
