@@ -2,10 +2,12 @@
   "name": "perf-log",
   "version": "1.0.0",
   "description": "Express.js middleware to track the time taken to process a given request.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/kevinyhong/perf-log",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinyhong/perf-log.git"
   },
+  "main": "perf-log.js",
   "keywords": [
     "express.js",
     "middleware",
